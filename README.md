@@ -1,11 +1,9 @@
-# EMF-TL-Skill-Assesment---2 
 Magnetization, Permeability, and Susceptibility: A Comprehensive Analysis
 
 
 Introduction
 Magnetism is a fundamental physical phenomenon arising from the motion, spin, and interaction of charged particles, especially electrons. The properties of magnetization, permeability, and susceptibility determine how a material responds to an external magnetic field. Understanding these characteristics is vital for engineering applications such as electrical machines, transformers, sensors, inductors, magnetic storage, and biomedical imaging. This report provides a structured and comprehensive overview of these magnetic properties, covering both microscopic origins and macroscopic behavior.
- 
-
+ <img width="605" height="521" alt="image" src="https://github.com/user-attachments/assets/0246f0f3-38fe-4009-b957-8b4989bee034" />
 
 Background of Magnetism
 Magnetism originates at the atomic level due to:
@@ -13,7 +11,7 @@ Magnetism originates at the atomic level due to:
 •	Orbital motion of electrons around the nucleus.
 •	Exchange interactions between adjacent atoms.
 Different materials exhibit different magnetic behaviors depending on the alignment of these dipoles, crystal structure, and temperature.
- 
+<img width="898" height="649" alt="image" src="https://github.com/user-attachments/assets/8d0f76a6-6755-4c0b-bb0e-658ee7dd55d4" />
 
 Importance of Magnetization, Permeability, and Susceptibility
 These three concepts help determine:
@@ -25,14 +23,15 @@ They are crucial for:
 •	Designing magnetic circuits.
 •	Predicting material behavior.
 •	Engineering core materials for electrical devices.
- 
+<img width="767" height="767" alt="image" src="https://github.com/user-attachments/assets/ed178515-e564-421f-8930-c94a527adfe5" />
+
 Fundamentals of Magnetization
 Definition of Magnetization
 Magnetization (M) is defined as the magnetic dipole moment per unit volume of a material.
 It represents how strongly a material becomes magnetized when placed in a magnetic field.
 It is measured in A/m (amperes per meter).
+<img width="944" height="944" alt="image" src="https://github.com/user-attachments/assets/8bf73e3e-9840-43bc-b2bc-990dfefea1c5" />
 
- 
 Magnetic Dipole Moments – Definition and Expanded Explanation
 A magnetic dipole moment is a fundamental property of atoms and molecules that describes their tendency to align with a magnetic field. It represents the strength and orientation of a tiny magnetic source within the material. In simple terms, it tells us how strongly a particle or atom behaves like a tiny bar magnet.
 Magnetic dipole moments arise from three major sources inside an atom:
@@ -54,7 +53,8 @@ Magnetic dipole moments arise from three major sources inside an atom:
 •	In solids, especially metals and magnetic materials, electrons move collectively and form microscopic current loops due to atomic and lattice interactions.
 •	These loops act like miniature electromagnets, further enhancing the magnetic dipole moment.
 •	In ferromagnetic materials (like iron), many such loops align together, producing strong magnetism.
- 
+
+<img width="944" height="944" alt="image" src="https://github.com/user-attachments/assets/2217d690-516f-4db7-a9b4-cf06cb8950cf" />
 
 Atoms as Tiny Bar Magnets
 Because of electron spin, orbital motion, and internal current loops, each atom possesses a small magnetic dipole moment.
@@ -88,9 +88,9 @@ Factors Affecting Magnetization
 •	Crystal Structure: Determines how easily domains can align.
 •	External Magnetic Field Strength: Stronger fields induce larger magnetization.
 •	Mechanical Stress or Impurities: Can distort domain structures and reduce magnetization.
- 
 
 
+<img width="657" height="657" alt="image" src="https://github.com/user-attachments/assets/906f9b8d-d402-4f15-affb-afd5730d581f" />
 
 Understanding Permeability
 Definition of Magnetic Permeability
@@ -215,9 +215,9 @@ Ferrites are widely used for high-frequency applications.
 Geomagnetism and Earth Sciences
 •	Study of Earth's magnetic field.
 •	Understanding magnetic minerals and past geological changes (paleomagnetism).
-•	 
 
 
+<img width="1060" height="543" alt="image" src="https://github.com/user-attachments/assets/2c3c2280-132f-489e-874e-6afdb80b6a78" />
 
 References
 Textbooks
@@ -226,4 +226,9 @@ Textbooks
 3.	Chikazumi, S. (1997). Physics of Ferromagnetism (2nd ed.). Oxford University Press.
 4.	Bozorth, R. M. (1993). Ferromagnetism. Wiley-IEEE Press.
 5.	David Jiles (2015). Introduction to Magnetism and Magnetic Materials (3rd ed.). CRC Press.
+
+
+
+
+
 
